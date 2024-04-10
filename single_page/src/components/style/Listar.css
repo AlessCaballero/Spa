@@ -1,0 +1,62 @@
+/* Listar.css */
+
+body {
+    background-color: #000000; /* Fondo oscuro para toda la página */
+    color: #fff; /* Texto claro para mejor legibilidad */
+  }
+  
+  .section {
+    margin: 20px;
+  }
+  
+  .tittleImg {
+    text-align: center;
+  }
+  
+  .section-h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #555; /* Cambiar el color del borde a un tono más claro */
+    padding: 8px;
+  }
+  
+  .table th {
+    background-color: #555; /* Cambiar el color de fondo del encabezado */
+  }
+  
+  .buttons {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Cambiar el color del texto de los botones */
+  .buttons a {
+    color: #fff;
+  }
+  
